@@ -1,2 +1,2 @@
 # Starbucks-Clone
-https://shaheerinayatali.github.io/Starbucks-Clone/
+https://shaheereminent.github.io/Starbucks-nonResponsive/
